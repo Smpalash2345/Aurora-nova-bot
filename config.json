@@ -1,6 +1,6 @@
 {
-  "mainThreadId": "",
-  "notesMainThreadId": "MANDATORY: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
+  "mainThreadId": "100091850660496",
+  "notesMainThreadId": "Aurora nova: Set your main thread ID here. Use the 'tid' command to get your thread ID, then paste it here and restart the bot.",
   "botAccount": {
     "email": "",
     "password": "",
@@ -40,7 +40,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [100091850660496],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
